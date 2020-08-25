@@ -1,0 +1,45 @@
+I-  Les étapes de développement logiciel
+    1-  Définir les besoins et les exigences du client et des utilisateurs
+    2-  Analyser le système 
+    3-  Concevoir le système 
+    4-  Programmer le logiciel
+    5-  Tester le logiciel
+    6-  Déployer 
+    7-  Maintenir le système
+
+A-  Le Cycle de vie en cascade
+    1-  Étude de faisabilité
+    2-  Analyse des besoins (I-1)
+    3-  Conception générale (I-2)
+    4-  Conception détaillée (I-3)
+    5-  Réalisation (I-4)
+    6-  Intégration (I-4)
+    7-  Le déploiement
+
+B-  Le cycle de vie en V
+    1-  Analyse des besoins (I-1)
+    2-  Conception système (I-2,3)
+    3-  Conception composant
+    4-  Réalisation composant
+    5-  Test composant (I-5)
+    6-  Tests d’intégration
+    7-  Test d’exploitation
+
+II- Quel diagramme pour quelle étape ?
+    1-  ANALYSE
+        a-  besoins
+                *Diagramme de contexte
+                *Diagramme de cas d’utilisation
+        b-  domaine
+                *Diagramme de cas d’utilisation
+                *Diagramme d’activité
+                *Diagramme de classes
+        c-  applicative
+                *Diagramme de séquences
+                *Diagramme d’état-transition
+                *Diagramme de collaboration (de communication)
+    2-  CONCEPTION
+        a-  solution
+                *Diagramme de composants
+                *Diagramme de déploiemen
+                
